@@ -1,0 +1,31 @@
+city,category,value
+Corvallis,Commute Time,16.4
+Corvallis,Salary,42488
+Corvallis,Age,27.1
+Corvallis,Property Value,27800
+Corvallis,Population,54981
+Portland,Commute Time,24.2
+Portland,Salary,60892
+Portland,Age,36.7
+Portland,Property Value,348300
+Portland,Population,632187
+Bend,Commute Time,14.2
+Bend,Salary,52989
+Bend,Age,38.6
+Bend,Property Value,271300
+Bend,Population,81780
+Seattle,Commute Time,25.5
+Seattle,Salary,80349
+Seattle,Age,35.5
+Seattle,Property Value,530900
+Seattle,Population,684443
+San Francisco,Commute Time,31.8
+San Francisco,Salary,92094
+San Francisco,Age,38.3
+San Francisco,Property Value,941400
+San Francisco,Population,864816
+Los Angeles,Commute Time,29.1
+Los Angeles,Salary,52024
+Los Angeles,Age,35
+Los Angeles,Property Value,542100
+Los Angeles,Population,4000000
