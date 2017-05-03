@@ -14,10 +14,12 @@
     function init() {
       // initialize controller variables
       ctrl.examples = [
+        "cityData",
         "data_the_avengers",
         "data_plant_seasons",
         "data_car_ratings"
       ];
+
       ctrl.exampleSelected = ctrl.examples[0];
       ctrl.getData = getData;
       ctrl.selectExample = selectExample;
@@ -25,8 +27,8 @@
       // initialize controller functions
       ctrl.selectExample(ctrl.exampleSelected);
       ctrl.config = {
-        w: 250,
-        h: 250,
+        w: 500,
+        h: 500,
         facet: false,
         levels: 5,
         levelScale: 0.85,
